@@ -32,10 +32,10 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## alienEngine C#
+## aliens C#
 
 # GetStartded EN
 
 ## alien python
 
-## alienEngine C#
+## aliens C#
